@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Digit.eGifts</string>
+
+    <string name="bienvenue"><u><b>Bienvenue sur Digit.eGifts !</b></u></string>
+    <string name="Intro">\n<b>Digit.eGifts vous permet de gagner des codes de \njeux gratuitement, simplement en rentrant votre \nnom d\'utilisateur Twitter et en retweetant un tweet!</b></string>
+    <string name="action_settings">Paramètres</string>
+    <string name="MSG_Instru">Pour participer il te suffit de regarder la publicité de 5 secondes, puis de rentrer ton nom d\'utilisateur Twitter ainsi que de retweeter le tweet fourni sur la page du concours!</string>
+    <string name="informations_param">Informations</string>
+    <string name="CC_Trackmania2_18_04_2015">Trackmania² Stadium</string>
+    <string name="at">\@</string>
+    <string name="MSG_Participation">Votre participation à bien été prise en compte! \nVous pouvez à présent partager le concours sur Twitter si vous le souhaiter.</string>
+    <string name="title_activity_cc__trackmania2_18_04_2015">CC_Trackmania2_18_04_2015</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Instru_Twit_User">Nom d\'utilisateur Twitter \n(le nom d\'utilisateur doit faire entre 2 et 5 caractères):</string>
+    <string name="Btn_Participer">Participer au concours</string>
+    <string name="TITLE_CC_Trackmania2_18_04_2015">Trackmania² Stadium</string>
+    <string name="OK_Participation">Merci d\'avoir participé!</string>
+    <string name="NOP_Participation">Votre participation n\'a pas été prise en compte pour l\'une des erreurs suivantes:\n - Vous avez enlevé le \"@\" au début du nom,\n - Votre nom d\'utilisateur fait moins de 3 caractères,\n - Votre nom d\'utilisateur fait plus de 15 caractères.</string>
+    <string name="Erreur">Erreur!</string>
+
+</resources>
